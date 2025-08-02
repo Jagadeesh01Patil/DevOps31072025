@@ -1,3 +1,8 @@
+/***************************************************
+substraction method added
+
+*/
+
 public with sharing class calculator {
     public calculator() {
 
