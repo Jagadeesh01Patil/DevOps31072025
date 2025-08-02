@@ -1,4 +1,11 @@
-public with sharing class calculator {
+/*********************************
+Name:Calculator
+Author:Jagadeesh
+
+************************/
+
+
+public with sharing class Calculator {
     public calculator() {
 
     }
