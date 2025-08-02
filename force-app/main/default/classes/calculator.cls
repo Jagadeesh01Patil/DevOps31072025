@@ -1,9 +1,13 @@
+
 /***************************************************
+Name:Calculator
+Author:Jagadeesh
 substraction method added
+************************/
 
-*/
 
-public with sharing class calculator {
+public with sharing class Calculator {
+
     public calculator() {
 
     }
